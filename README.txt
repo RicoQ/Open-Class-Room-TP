@@ -1,4 +1,4 @@
-This Repository is where a Upload my "TPs" from: 
+This Repository is where I Upload my "TPs" from: 
 	 
 	https://openclassrooms.com/courses/apprenez-a-programmer-en-python
 
@@ -11,8 +11,7 @@ Those are symple exercices from the cours. I always try to work by versions.
 	= .v3      is the the version I re-worked after a bit of research on the net. (mostly after lots and lots of trial & error ^^)
 	= .final   is the final version after I see the comments (if there are any) and/or talk to friends (Devs for the most parts) 
 
-So if you see sommething that can be improved upon, don't be shy! however all I ask is to always explain the reasoning behind your improvements.
-After all, I am trying to learn :-P.
+So if you see sommething that can be improved upon, don't be shy! however all I ask is to always explain the reasoning behind your improvements. After all, I am trying to learn :-P.
 
 Example #1: 
 
@@ -36,4 +35,4 @@ Example #2
 		print(T)
 
 	you:	#! /usr/bin/python
-		for T in range(1,4): print(T)   #We create a Loop from a range, starting at 1 and finishing at 4, then we "print" the result.
+		for T in range(1,4): print(T)   #We create a Loop from a range, starting at 1 and finishing at 4, then we "print".
